@@ -1,3 +1,2 @@
 #!/bin/bash
-hello $(id -nu)
 hello root
